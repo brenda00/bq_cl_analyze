@@ -1,4 +1,4 @@
-# 🚀 **Qwiklabs - Analise de logs do uso do ambiente com  o BigQuery e Cloud Logging com Looker para visualização**
+# 🚀 **Qwiklabs - Analise de logs do uso do ambiente com  o BigQuery e Cloud Logging com Looker studio para visualização**
 
 Este laboratório guia você pelo processo de criação de um relatório de log usando o BigQuery, uma ferramenta poderosa de análise de dados do Google Cloud. O objetivo é aprender a integrar dados do Google Cloud Logging com o BigQuery para gerar insights úteis sobre a utilização do uso do ambiente no bigquery.
 
